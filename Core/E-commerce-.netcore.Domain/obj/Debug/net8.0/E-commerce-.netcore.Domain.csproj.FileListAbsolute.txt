@@ -1,0 +1,12 @@
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Domain\bin\Debug\net8.0\E-commerce-.netcore.Domain.deps.json
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Domain\bin\Debug\net8.0\E-commerce-.netcore.Domain.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Domain\bin\Debug\net8.0\E-commerce-.netcore.Domain.pdb
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Domain\obj\Debug\net8.0\E-commerce-.netcore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Domain\obj\Debug\net8.0\E-commerce-.netcore.Domain.AssemblyInfoInputs.cache
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Domain\obj\Debug\net8.0\E-commerce-.netcore.Domain.AssemblyInfo.cs
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Domain\obj\Debug\net8.0\E-commerce-.netcore.Domain.csproj.CoreCompileInputs.cache
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Domain\obj\Debug\net8.0\E-commerce-.netcore.Domain.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Domain\obj\Debug\net8.0\refint\E-commerce-.netcore.Domain.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Domain\obj\Debug\net8.0\E-commerce-.netcore.Domain.pdb
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Domain\obj\Debug\net8.0\ref\E-commerce-.netcore.Domain.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Domain\obj\Debug\net8.0\E-commerce-.netcore.Domain.csproj.AssemblyReference.cache

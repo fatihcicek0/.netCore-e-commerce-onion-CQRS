@@ -1,0 +1,17 @@
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\bin\Debug\net8.0\E-commerce-.netcore.Mapper.deps.json
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\bin\Debug\net8.0\E-commerce-.netcore.Mapper.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\bin\Debug\net8.0\E-commerce-.netcore.Mapper.pdb
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\bin\Debug\net8.0\E-commerce-.netcore.Application.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\bin\Debug\net8.0\E-commerce-.netcore.Domain.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\bin\Debug\net8.0\E-commerce-.netcore.Application.pdb
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\bin\Debug\net8.0\E-commerce-.netcore.Domain.pdb
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\obj\Debug\net8.0\E-commerce-.netcore.Mapper.csproj.AssemblyReference.cache
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\obj\Debug\net8.0\E-commerce-.netcore.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\obj\Debug\net8.0\E-commerce-.netcore.Mapper.AssemblyInfoInputs.cache
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\obj\Debug\net8.0\E-commerce-.netcore.Mapper.AssemblyInfo.cs
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\obj\Debug\net8.0\E-commerce-.netcore.Mapper.csproj.CoreCompileInputs.cache
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\obj\Debug\net8.0\E-commer.63CA734A.Up2Date
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\obj\Debug\net8.0\E-commerce-.netcore.Mapper.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\obj\Debug\net8.0\refint\E-commerce-.netcore.Mapper.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\obj\Debug\net8.0\E-commerce-.netcore.Mapper.pdb
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\Mapper\obj\Debug\net8.0\ref\E-commerce-.netcore.Mapper.dll

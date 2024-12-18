@@ -1,0 +1,17 @@
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\bin\Debug\net8.0\E-commerce-.netcore.Infrastructure.deps.json
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\bin\Debug\net8.0\E-commerce-.netcore.Infrastructure.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\bin\Debug\net8.0\E-commerce-.netcore.Infrastructure.pdb
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\bin\Debug\net8.0\E-commerce-.netcore.Application.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\bin\Debug\net8.0\E-commerce-.netcore.Domain.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\bin\Debug\net8.0\E-commerce-.netcore.Application.pdb
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\bin\Debug\net8.0\E-commerce-.netcore.Domain.pdb
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\obj\Debug\net8.0\E-commerce-.netcore.Infrastructure.csproj.AssemblyReference.cache
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\obj\Debug\net8.0\E-commerce-.netcore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\obj\Debug\net8.0\E-commerce-.netcore.Infrastructure.AssemblyInfoInputs.cache
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\obj\Debug\net8.0\E-commerce-.netcore.Infrastructure.AssemblyInfo.cs
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\obj\Debug\net8.0\E-commerce-.netcore.Infrastructure.csproj.CoreCompileInputs.cache
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\obj\Debug\net8.0\E-commer.F08D169B.Up2Date
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\obj\Debug\net8.0\E-commerce-.netcore.Infrastructure.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\obj\Debug\net8.0\refint\E-commerce-.netcore.Infrastructure.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\obj\Debug\net8.0\E-commerce-.netcore.Infrastructure.pdb
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Infrastructure\E-commerce-.nercore.Infrastructure\obj\Debug\net8.0\ref\E-commerce-.netcore.Infrastructure.dll

@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF832D2-EDBE-49CC-91DC-7D458CB69A46}|Core\\E-commerce-.netcore.Application\\E-commerce-.netcore.Application.csproj|e:\\.net-projects\\.netcore\\e-commerce\\e-commerce-.netcore\\core\\e-commerce-.netcore.application\\features\\auth\\commands\\refreshtoken\\refreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF832D2-EDBE-49CC-91DC-7D458CB69A46}|Core\\E-commerce-.netcore.Application\\E-commerce-.netcore.Application.csproj|solutionrelative:core\\e-commerce-.netcore.application\\features\\auth\\commands\\refreshtoken\\refreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF832D2-EDBE-49CC-91DC-7D458CB69A46}|Core\\E-commerce-.netcore.Application\\E-commerce-.netcore.Application.csproj|e:\\.net-projects\\.netcore\\e-commerce\\e-commerce-.netcore\\core\\e-commerce-.netcore.application\\features\\auth\\commands\\refreshtoken\\refreshtokencommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF832D2-EDBE-49CC-91DC-7D458CB69A46}|Core\\E-commerce-.netcore.Application\\E-commerce-.netcore.Application.csproj|solutionrelative:core\\e-commerce-.netcore.application\\features\\auth\\commands\\refreshtoken\\refreshtokencommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/E_commerce_.net_core/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AB399E-CF58-4968-81A6-4D865589F02C}|Infrastructure\\E-commerce-.nercore.Infrastructure\\E-commerce-.netcore.Infrastructure.csproj|e:\\.net-projects\\.netcore\\e-commerce\\e-commerce-.netcore\\infrastructure\\e-commerce-.nercore.infrastructure\\token\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AB399E-CF58-4968-81A6-4D865589F02C}|Infrastructure\\E-commerce-.nercore.Infrastructure\\E-commerce-.netcore.Infrastructure.csproj|solutionrelative:infrastructure\\e-commerce-.nercore.infrastructure\\token\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E914E-4E27-44C7-9A64-7EB2FEF825B6}|Presentation\\e-commerce.Api\\e-commerce.Api.csproj|e:\\.net-projects\\.netcore\\e-commerce\\e-commerce-.netcore\\presentation\\e-commerce.api\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E914E-4E27-44C7-9A64-7EB2FEF825B6}|Presentation\\e-commerce.Api\\e-commerce.Api.csproj|solutionrelative:presentation\\e-commerce.api\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF832D2-EDBE-49CC-91DC-7D458CB69A46}|Core\\E-commerce-.netcore.Application\\E-commerce-.netcore.Application.csproj|e:\\.net-projects\\.netcore\\e-commerce\\e-commerce-.netcore\\core\\e-commerce-.netcore.application\\features\\auth\\commands\\refreshtoken\\refreshtokencommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF832D2-EDBE-49CC-91DC-7D458CB69A46}|Core\\E-commerce-.netcore.Application\\E-commerce-.netcore.Application.csproj|solutionrelative:core\\e-commerce-.netcore.application\\features\\auth\\commands\\refreshtoken\\refreshtokencommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF832D2-EDBE-49CC-91DC-7D458CB69A46}|Core\\E-commerce-.netcore.Application\\E-commerce-.netcore.Application.csproj|e:\\.net-projects\\.netcore\\e-commerce\\e-commerce-.netcore\\core\\e-commerce-.netcore.application\\features\\auth\\commands\\refreshtoken\\refreshtokencommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF832D2-EDBE-49CC-91DC-7D458CB69A46}|Core\\E-commerce-.netcore.Application\\E-commerce-.netcore.Application.csproj|solutionrelative:core\\e-commerce-.netcore.application\\features\\auth\\commands\\refreshtoken\\refreshtokencommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF832D2-EDBE-49CC-91DC-7D458CB69A46}|Core\\E-commerce-.netcore.Application\\E-commerce-.netcore.Application.csproj|e:\\.net-projects\\.netcore\\e-commerce\\e-commerce-.netcore\\core\\e-commerce-.netcore.application\\features\\auth\\rules\\authrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF832D2-EDBE-49CC-91DC-7D458CB69A46}|Core\\E-commerce-.netcore.Application\\E-commerce-.netcore.Application.csproj|solutionrelative:core\\e-commerce-.netcore.application\\features\\auth\\rules\\authrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF832D2-EDBE-49CC-91DC-7D458CB69A46}|Core\\E-commerce-.netcore.Application\\E-commerce-.netcore.Application.csproj|e:\\.net-projects\\.netcore\\e-commerce\\e-commerce-.netcore\\core\\e-commerce-.netcore.application\\features\\auth\\exceptions\\refreshtokenshouldnotbeexpiredexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF832D2-EDBE-49CC-91DC-7D458CB69A46}|Core\\E-commerce-.netcore.Application\\E-commerce-.netcore.Application.csproj|solutionrelative:core\\e-commerce-.netcore.application\\features\\auth\\exceptions\\refreshtokenshouldnotbeexpiredexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF832D2-EDBE-49CC-91DC-7D458CB69A46}|Core\\E-commerce-.netcore.Application\\E-commerce-.netcore.Application.csproj|e:\\.net-projects\\.netcore\\e-commerce\\e-commerce-.netcore\\core\\e-commerce-.netcore.application\\features\\auth\\commands\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF832D2-EDBE-49CC-91DC-7D458CB69A46}|Core\\E-commerce-.netcore.Application\\E-commerce-.netcore.Application.csproj|solutionrelative:core\\e-commerce-.netcore.application\\features\\auth\\commands\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF832D2-EDBE-49CC-91DC-7D458CB69A46}|Core\\E-commerce-.netcore.Application\\E-commerce-.netcore.Application.csproj|e:\\.net-projects\\.netcore\\e-commerce\\e-commerce-.netcore\\core\\e-commerce-.netcore.application\\features\\auth\\exceptions\\emailorpasswordshoundnotbeinvalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF832D2-EDBE-49CC-91DC-7D458CB69A46}|Core\\E-commerce-.netcore.Application\\E-commerce-.netcore.Application.csproj|solutionrelative:core\\e-commerce-.netcore.application\\features\\auth\\exceptions\\emailorpasswordshoundnotbeinvalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/E_commerce_.net_core/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-17T20:23:35.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Infrastructure\\E-commerce-.nercore.Infrastructure\\Token\\TokenService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\E-commerce-.nercore.Infrastructure\\Token\\TokenService.cs",
+              "ToolTip": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Infrastructure\\E-commerce-.nercore.Infrastructure\\Token\\TokenService.cs",
+              "RelativeToolTip": "Infrastructure\\E-commerce-.nercore.Infrastructure\\Token\\TokenService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:56:58.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefreshTokenCommandValidator.cs",
+              "DocumentMoniker": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandValidator.cs",
+              "ToolTip": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandValidator.cs",
+              "RelativeToolTip": "Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:50:34.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RefreshTokenCommandHandler.cs",
+              "DocumentMoniker": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
+              "ToolTip": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
+              "RelativeToolTip": "Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:50:20.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RefreshTokenCommandResponse.cs",
+              "DocumentMoniker": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandResponse.cs",
+              "ToolTip": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandResponse.cs",
+              "RelativeToolTip": "Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:50:06.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RefreshTokenCommandRequest.cs",
+              "DocumentMoniker": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandRequest.cs",
+              "ToolTip": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandRequest.cs",
+              "RelativeToolTip": "Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:49:52.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthRules.cs",
+              "DocumentMoniker": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Core\\E-commerce-.netcore.Application\\Features\\Auth\\Rules\\AuthRules.cs",
+              "RelativeDocumentMoniker": "Core\\E-commerce-.netcore.Application\\Features\\Auth\\Rules\\AuthRules.cs",
+              "ToolTip": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Core\\E-commerce-.netcore.Application\\Features\\Auth\\Rules\\AuthRules.cs",
+              "RelativeToolTip": "Core\\E-commerce-.netcore.Application\\Features\\Auth\\Rules\\AuthRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:15:58.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthsController.cs",
+              "DocumentMoniker": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Presentation\\e-commerce.Api\\Controllers\\AuthsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\e-commerce.Api\\Controllers\\AuthsController.cs",
+              "ToolTip": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Presentation\\e-commerce.Api\\Controllers\\AuthsController.cs",
+              "RelativeToolTip": "Presentation\\e-commerce.Api\\Controllers\\AuthsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:45:57.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RefreshTokenShouldNotBeExpiredException.cs",
+              "DocumentMoniker": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Core\\E-commerce-.netcore.Application\\Features\\Auth\\Exceptions\\RefreshTokenShouldNotBeExpiredException.cs",
+              "RelativeDocumentMoniker": "Core\\E-commerce-.netcore.Application\\Features\\Auth\\Exceptions\\RefreshTokenShouldNotBeExpiredException.cs",
+              "ToolTip": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Core\\E-commerce-.netcore.Application\\Features\\Auth\\Exceptions\\RefreshTokenShouldNotBeExpiredException.cs",
+              "RelativeToolTip": "Core\\E-commerce-.netcore.Application\\Features\\Auth\\Exceptions\\RefreshTokenShouldNotBeExpiredException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:00:06.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailOrPasswordShoundNotBeInvalidException.cs",
+              "DocumentMoniker": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Core\\E-commerce-.netcore.Application\\Features\\Auth\\Exceptions\\EmailOrPasswordShoundNotBeInvalidException.cs",
+              "RelativeDocumentMoniker": "Core\\E-commerce-.netcore.Application\\Features\\Auth\\Exceptions\\EmailOrPasswordShoundNotBeInvalidException.cs",
+              "ToolTip": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Core\\E-commerce-.netcore.Application\\Features\\Auth\\Exceptions\\EmailOrPasswordShoundNotBeInvalidException.cs",
+              "RelativeToolTip": "Core\\E-commerce-.netcore.Application\\Features\\Auth\\Exceptions\\EmailOrPasswordShoundNotBeInvalidException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:16:19.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\Login\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\Login\\LoginCommandHandler.cs",
+              "ToolTip": "E:\\.net-projects\\.netcore\\E-commerce\\E-commerce-.netcore\\Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\Login\\LoginCommandHandler.cs",
+              "RelativeToolTip": "Core\\E-commerce-.netcore.Application\\Features\\Auth\\Commands\\Login\\LoginCommandHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:05:19.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

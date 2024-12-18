@@ -1,0 +1,15 @@
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Application\bin\Debug\net8.0\E-commerce-.netcore.Application.deps.json
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Application\bin\Debug\net8.0\E-commerce-.netcore.Application.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Application\bin\Debug\net8.0\E-commerce-.netcore.Application.pdb
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Application\obj\Debug\net8.0\E-commerce-.netcore.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Application\obj\Debug\net8.0\E-commerce-.netcore.Application.AssemblyInfoInputs.cache
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Application\obj\Debug\net8.0\E-commerce-.netcore.Application.AssemblyInfo.cs
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Application\obj\Debug\net8.0\E-commerce-.netcore.Application.csproj.CoreCompileInputs.cache
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Application\obj\Debug\net8.0\E-commerce-.netcore.Application.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Application\obj\Debug\net8.0\refint\E-commerce-.netcore.Application.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Application\obj\Debug\net8.0\E-commerce-.netcore.Application.pdb
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Application\obj\Debug\net8.0\ref\E-commerce-.netcore.Application.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Application\bin\Debug\net8.0\E-commerce-.netcore.Domain.dll
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Application\bin\Debug\net8.0\E-commerce-.netcore.Domain.pdb
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Application\obj\Debug\net8.0\E-commerce-.netcore.Application.csproj.AssemblyReference.cache
+E:\.net-projects\.netcore\E-commerce\E-commerce-.netcore\Core\E-commerce-.netcore.Application\obj\Debug\net8.0\E-commer.F0BC52B6.Up2Date
